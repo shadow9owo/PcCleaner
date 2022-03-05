@@ -1,0 +1,11 @@
+C:\Users\hyneks pc\source\repos\cleaner\cleaner\obj\Debug\cleaner.csproj.AssemblyReference.cache
+C:\Users\hyneks pc\source\repos\cleaner\cleaner\obj\Debug\cleaner.Form1.resources
+C:\Users\hyneks pc\source\repos\cleaner\cleaner\obj\Debug\cleaner.Properties.Resources.resources
+C:\Users\hyneks pc\source\repos\cleaner\cleaner\obj\Debug\cleaner.csproj.GenerateResource.cache
+C:\Users\hyneks pc\source\repos\cleaner\cleaner\obj\Debug\cleaner.csproj.CoreCompileInputs.cache
+C:\Users\hyneks pc\source\repos\cleaner\cleaner\bin\Debug\PcCleaner.exe
+C:\Users\hyneks pc\source\repos\cleaner\cleaner\bin\Debug\PcCleaner.pdb
+C:\Users\hyneks pc\source\repos\cleaner\cleaner\obj\Debug\PcCleaner.exe
+C:\Users\hyneks pc\source\repos\cleaner\cleaner\obj\Debug\PcCleaner.pdb
+C:\Users\hyneks pc\source\repos\cleaner\cleaner\obj\Debug\cleaner.Form2.resources
+C:\Users\hyneks pc\source\repos\cleaner\cleaner\obj\Debug\cleaner.Form3.resources
